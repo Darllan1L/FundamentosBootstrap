@@ -1,0 +1,24 @@
+#principal{
+    background-image: url(assets/imagens/img.gif);
+    background-position:center;
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1
+}
+
+#center{
+    margin: 20%;
+    padding-top: 20%;
+}
+
+#texto{
+    margin: 20%;
+    justify-content: center;
+    color: rgb(194, 206, 206);
+    padding-bottom: 10%;
+}
